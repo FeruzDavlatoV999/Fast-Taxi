@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342731648286",
+    "project_id": "joybox-60ece",
+    "storage_bucket": "joybox-60ece.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342731648286:android:a1d184e7180e141dd9ed0f",
+        "android_client_info": {
+          "package_name": "uz.mobile.joybox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkdS9zX6dyjp-7K0O9uH8mdrf13chxvV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
