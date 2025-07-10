@@ -121,7 +121,7 @@ android {
             keyPassword = "U7=i1cb3XL6<"
         }
     }
-    namespace = "uz.mobile.joybox"
+    namespace = "uz.mobile.taxi"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")

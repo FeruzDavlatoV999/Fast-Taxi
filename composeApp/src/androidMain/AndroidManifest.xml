@@ -50,7 +50,7 @@
             android:exported="false"
             tools:node="merge">
             <meta-data
-                android:name="uz.mobile.joybox.NotifierInitializer"
+                android:name="uz.mobile.taxi.NotifierInitializer"
                 android:value="androidx.startup" />
         </provider>
 

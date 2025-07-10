@@ -1,4 +1,4 @@
-rootProject.name = "JoyBox"
+rootProject.name = "Taxi"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

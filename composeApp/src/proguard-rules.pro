@@ -1,49 +1,49 @@
--keepclassmembers class uz.mobile.joybox.data.remote.dto.base.** {
+-keepclassmembers class uz.mobile.taxi.data.remote.dto.base.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.data.remote.dto.paging.** {
+-keepclassmembers class uz.mobile.taxi.data.remote.dto.paging.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.data.remote.dto.** {
+-keepclassmembers class uz.mobile.taxi.data.remote.dto.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.data.remote.** {
+-keepclassmembers class uz.mobile.taxi.data.remote.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.domain.model.** {
+-keepclassmembers class uz.mobile.taxi.domain.model.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.domain.util.** {
+-keepclassmembers class uz.mobile.taxi.domain.util.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.domain.util.camera.** {
+-keepclassmembers class uz.mobile.taxi.domain.util.camera.** {
     *** Companion;
 }
--keepclassmembers class uz.mobile.joybox.domain.validation.** {
-    *** Companion;
-}
-
--keepclassmembers class uz.mobile.joybox.datastore.** {
+-keepclassmembers class uz.mobile.taxi.domain.validation.** {
     *** Companion;
 }
 
--keepclassmembers class uz.mobile.joybox.data.repository.** {
+-keepclassmembers class uz.mobile.taxi.datastore.** {
     *** Companion;
 }
 
--keepclassmembers class uz.mobile.joybox.data.remote.service.** {
+-keepclassmembers class uz.mobile.taxi.data.repository.** {
     *** Companion;
 }
 
--keepclassmembers class uz.mobile.joybox.presentation.screens.home.** {
+-keepclassmembers class uz.mobile.taxi.data.remote.service.** {
     *** Companion;
 }
 
--keepclassmembers class uz.mobile.joybox.presentation.screens.profile.settings.language.** {
+-keepclassmembers class uz.mobile.taxi.presentation.screens.home.** {
     *** Companion;
 }
 
--keepclassmembers class uz.mobile.joybox.data.remote.** {
+-keepclassmembers class uz.mobile.taxi.presentation.screens.profile.settings.language.** {
+    *** Companion;
+}
+
+-keepclassmembers class uz.mobile.taxi.data.remote.** {
     *** Companion;
 }
 
